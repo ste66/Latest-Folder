@@ -1,0 +1,29 @@
+body {
+    background-color: #e5f4f9;
+}
+
+a:hover {
+     color:green;
+}
+
+h1, h2, h4 {
+font-family: 'Courgette', cursive;
+}
+
+h5 {
+    text-align: center;
+}
+
+.red, bold {
+    color: red;
+    font-weight: bold;
+}
+
+.blue, bold {
+    color:blue;
+    font-weight: bold;
+}
+
+img {
+    height: 300px;
+}
